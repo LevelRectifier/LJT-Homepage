@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Template demo publication (disabled)"
 collection: publications
 published: false
 ---
